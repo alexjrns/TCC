@@ -1,0 +1,84 @@
+.dot {
+	fill: #6bb7c7;
+	stroke: #DDD;
+	stroke-width: 4;
+	radius: 5;			
+}			
+
+.dotHover{
+	stroke: #6bb7c7;
+	fill: #DDD;
+	stroke-width: 4;
+	cursor: pointer;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke: #6bb7c7;
+  /*stroke-width: 4.5px;*/
+}
+
+
+.botao{
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	-o-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+	-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+	background-color: transparent;
+	border-radius: 0.35em;
+	border: solid 3px #efefef;
+	color: #787878;
+	cursor: pointer;
+	display: inline-block;
+	font-weight: 400;
+	height: 3.15em;
+	height: calc(2.75em + 6px);
+	line-height: 2.75em;
+	min-width: 10em;
+	padding: 0 1.5em;
+	text-align: center;
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+.botao:hover{
+	border-color: #49bf9d;
+	color: #49bf9d;
+}
+
+.botao:active {
+	background-color: rgba(73, 191, 157, 0.1);
+	border-color: #49bf9d;
+	color: #49bf9d;
+}
+
+.caixa{
+	padding: 20px;
+	margin: 20px 0px;
+	border-width: 1px 1px 1px 7px;
+	border-style: solid;
+	border-color: #EEE;
+	-moz-border-top-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	border-image: none;
+	border-radius: 3px;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+/*    color: #66afe9 !important;*/
+    color: #49BF9D !important;
+}

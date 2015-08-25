@@ -1,0 +1,1 @@
+﻿insert into USUARIO(ID_USUARIO, COD_USUARIO, DAT_CADASTRO, DES_EMAIL, VAL_LOGIN, DES_NOME, VAL_SENHA) values(1, 1, now(), 'alexnunesjr@hotmail.com', 'alex', 'Alex Nunes', md5('1234564b4ca*1'));

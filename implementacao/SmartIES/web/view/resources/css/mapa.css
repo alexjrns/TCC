@@ -1,0 +1,42 @@
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+.naue{
+      fill: #ccc;
+    stroke: #6c6c6c;
+    stroke-width: 6px;
+}
+.feature {
+  fill: #ccc;
+  cursor: pointer;
+}
+
+.feature.active {
+  fill: #6495ED;
+}
+
+.mesh {
+  fill: none;
+  stroke: #fff;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+div.tooltip {   
+  position: absolute;           
+  text-align: center;           
+  width: auto;                  
+  height: auto;                 
+  padding: 8px;             
+  font: 12px sans-serif;        
+  background: rgba(176, 196, 222, 0.7) none repeat scroll 0% 0%;
+  border: 0px;      
+  border-radius: 6px;           
+  pointer-events: none;         
+}
+
+.alex{
+	fill: #6495ED;
+}

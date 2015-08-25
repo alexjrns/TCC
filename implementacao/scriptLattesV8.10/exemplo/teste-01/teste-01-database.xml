@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<curriculo_lattes data_processamento="29/05/2015 18:27:45">
+  <pesquisador id="2240951178648368">
+    <identificacao>
+      <identificador10></identificador10>
+      <nome_inicial>Roberto Marcondes Cesar Junior</nome_inicial>
+      <nome_completo>Roberto Marcondes Cesar Junior</nome_completo>
+      <nome_citacao_bibliografica>CESAR JUNIOR, R. M.;Cesar, R.M.;Cesar, Roberto M.;CESARJR, R;Cesar Jr., Roberto M.;Cesar Junior, Roberto Marcondes;Cesar Jr., R.M.;Cesar, Roberto M;Cesar Jr, Roberto M.;CESAR-JR, ROBERTO M.;Cesar, Roberto Marcondes;CESAR-JR, ROBERTO M</nome_citacao_bibliografica>
+      <sexo>Masculino</sexo>
+    </identificacao>
+    <idiomas>
+      <idioma>
+          <nome>Inglês</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+      <idioma>
+          <nome>Francês</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+    </idiomas>
+    <endereco>
+      <endereco_profissional>Universidade de São Paulo, Instituto de Matemática e Estatística, Departamento de Ciência da Computação. Rua do Matão 1010 Cidade Universitária 05508-090 - Sao Paulo, SP - Brasil Telefone: (11) 30916135 Ramal: 6235 Fax: (11) 30916134 URL da Homepage: http://scholar.google.com/citations?user=yGsck-AAAAAJhl=en</endereco_profissional>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
+    </endereco>
+    <formacao_academica>
+        <formacao>
+          <ano_inicio>1994</ano_inicio>
+          <ano_conclusao>1997</ano_conclusao>
+          <tipo>Doutorado em Física</tipo>
+          <nome_instituicao>Universidade de São Paulo, USP, Brasil</nome_instituicao>
+          <descricao>com período sanduíche em Université Catholique de Louvain (Orientador: Jean-Pierre Antoine). Título: Análise Multi-escala de formas bidimensionais, Ano de obtenção: 1997. Orientador: Luciano da Fontoura Costa. Coorientador: Jean-Pierre Antoine. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>1992</ano_inicio>
+          <ano_conclusao>1993</ano_conclusao>
+          <tipo>Mestrado em Engenharia Elétrica</tipo>
+          <nome_instituicao>Universidade Estadual de Campinas, UNICAMP, Brasil</nome_instituicao>
+          <descricao>Título: Reconstrução tridimensional (3D) por ajuste de superfícies paramétricas,Ano de Obtenção: 1993. Orientador: Roberto de Alencar Lotufo. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>1987</ano_inicio>
+          <ano_conclusao>1992</ano_conclusao>
+          <tipo>Graduação em BCC - São José do Rio Preto</tipo>
+          <nome_instituicao>Universidade Estadual Paulista Júlio de Mesquita Filho, UNESP, Brasil</nome_instituicao>
+          <descricao></descricao>
+        </formacao>
+    </formacao_academica>
+    <projetos_pesquisa>
+        <projeto>
+          <ano_inicio>2007</ano_inicio>
+          <ano_conclusao>2009</ano_conclusao>
+          <nome>Coordenador de projeto CAPES-COFECUB: Raciocínio espacial em imagens: modelagem de relações espaciais complexas entre objetos em função de formas e novas abordagens para o reconhecimento de estruturas em seqüências de vídeo</nome>
+          <descricao>Descrição: Projeto em colaboração com a Professora Isabelle Bloch (ENST-Paris): O raciocínio espacial em imagens é uma área de pesquisa ainda muito pouco desenvolvida, necessitando da criação de modelos de representação das entidades espaciais, de suas relações e de sua integração em modos de raciocínio. A importância das relações espaciais para o reconhecimento estrutural de padrões já foi mostrada em diversas situações. Entretanto, tais relações possuem diferentes significados dependendo da forma dos objetos envolvidos, podendo ainda variar com o tempo em seqüências de vídeo. Este projeto prevê o desenvolvimento de modelos matemáticos para tais relações, bem como de algoritmos de reconhecimento que os explorem no contexto de análise de imagens. Está previsto o desenvolvimento de modelos matemáticos baseados em conjuntos nebulosos que permitam a exploração de ferramentas de fusão de informações e de raciocínio. Tais modelos serão integrados a representações por grafos para o raciocínio e o reconhecimento de padrões. Aplicações previstas incluem o processamento de imagens médicas do cérebro e o reconhecimento de faces em seqüências de vídeo.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Roberto Marcondes Cesar Junior - Coordenador / Isabelle Bloch - Integrante / Luis A. Consularo - Integrante. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Auxílio financeiro.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2006</ano_inicio>
+          <ano_conclusao>2011</ano_conclusao>
+          <nome>Coordenador: Projeto Temático FAPESP: Modelagem por redes (grafos) e técnicas de reconhecimento de padrões: estrutura, dinâmica e aplicações</nome>
+          <descricao>Descrição: Reconhecimento estrutural de padrões.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . Integrantes: Roberto Marcondes Cesar Junior - Coordenador / L. da F. Costa - Integrante / J Barrera - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio financeiro.</descricao>
+        </projeto>
+    </projetos_pesquisa>
+    <area_atuacao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Processamento Gráfico (Graphics).</descricao>
+    </area_atuacao>
+    <premios_titulos>
+        <premio_titulo>
+          <ano>2010</ano>
+          <descricao>Menção honrosa no prêmio Capes de teses 2009 - David C. Martins Jr. (doutorado), CAPES.</descricao>
+        </premio_titulo>
+    </premios_titulos>
+    <colaboradores>
+        <id_lattes_colaborador>0305044530923158</id_lattes_colaborador>
+        <id_lattes_colaborador>8540637195455101</id_lattes_colaborador>
+        <id_lattes_colaborador>4163876539828813</id_lattes_colaborador>
+        <id_lattes_colaborador>2837012019824386</id_lattes_colaborador>
+        <id_lattes_colaborador>9224426261471914</id_lattes_colaborador>
+        <id_lattes_colaborador>1647118503085126</id_lattes_colaborador>
+        <id_lattes_colaborador>3794241680729178</id_lattes_colaborador>
+        <id_lattes_colaborador>4585253466628293</id_lattes_colaborador>
+        <id_lattes_colaborador>3645880866476151</id_lattes_colaborador>
+        <id_lattes_colaborador>8115411925529441</id_lattes_colaborador>
+        <id_lattes_colaborador>1228255861618623</id_lattes_colaborador>
+        <id_lattes_colaborador>3543332021306245</id_lattes_colaborador>
+        <id_lattes_colaborador>1249856748676359</id_lattes_colaborador>
+        <id_lattes_colaborador>7824954032846499</id_lattes_colaborador>
+        <id_lattes_colaborador>9436687101313785</id_lattes_colaborador>
+        <id_lattes_colaborador>5052452346402051</id_lattes_colaborador>
+        <id_lattes_colaborador>2961730349897943</id_lattes_colaborador>
+        <id_lattes_colaborador>9284531339856547</id_lattes_colaborador>
+        <id_lattes_colaborador>0202442951723700</id_lattes_colaborador>
+        <id_lattes_colaborador>4616667057431718</id_lattes_colaborador>
+        <id_lattes_colaborador>8329483815933202</id_lattes_colaborador>
+        <id_lattes_colaborador>9283304583756076</id_lattes_colaborador>
+        <id_lattes_colaborador>3137165519167799</id_lattes_colaborador>
+        <id_lattes_colaborador>4375702835280938</id_lattes_colaborador>
+        <id_lattes_colaborador>4727357182510680</id_lattes_colaborador>
+        <id_lattes_colaborador>0695807172948176</id_lattes_colaborador>
+        <id_lattes_colaborador>9012341969571070</id_lattes_colaborador>
+        <id_lattes_colaborador>0362417828475021</id_lattes_colaborador>
+        <id_lattes_colaborador>9500245604678806</id_lattes_colaborador>
+        <id_lattes_colaborador>6382816131483581</id_lattes_colaborador>
+        <id_lattes_colaborador>5144730275745518</id_lattes_colaborador>
+        <id_lattes_colaborador>2093767103221971</id_lattes_colaborador>
+        <id_lattes_colaborador>0858482819476716</id_lattes_colaborador>
+        <id_lattes_colaborador>5510586949900283</id_lattes_colaborador>
+        <id_lattes_colaborador>5909154335340519</id_lattes_colaborador>
+        <id_lattes_colaborador>1660070580824436</id_lattes_colaborador>
+        <id_lattes_colaborador>1965696768654682</id_lattes_colaborador>
+        <id_lattes_colaborador>7549395284137638</id_lattes_colaborador>
+        <id_lattes_colaborador>5337976093923686</id_lattes_colaborador>
+        <id_lattes_colaborador>5011837939713517</id_lattes_colaborador>
+        <id_lattes_colaborador>7090251302458231</id_lattes_colaborador>
+        <id_lattes_colaborador>0282042576824255</id_lattes_colaborador>
+        <id_lattes_colaborador>2254436025676785</id_lattes_colaborador>
+        <id_lattes_colaborador>1562357566810393</id_lattes_colaborador>
+        <id_lattes_colaborador>8076305092222491</id_lattes_colaborador>
+        <id_lattes_colaborador>4333940423066302</id_lattes_colaborador>
+        <id_lattes_colaborador>0131770792108992</id_lattes_colaborador>
+        <id_lattes_colaborador>5567035007239202</id_lattes_colaborador>
+        <id_lattes_colaborador>5050297112715056</id_lattes_colaborador>
+        <id_lattes_colaborador>2573022390208533</id_lattes_colaborador>
+        <id_lattes_colaborador>6366443994619479</id_lattes_colaborador>
+        <id_lattes_colaborador>6032675883071976</id_lattes_colaborador>
+    </colaboradores>
+    <artigos_em_periodicos>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.jneumeth.2008.10.037</doi>
+          <titulo>Automatic contour extraction from 2D neuron images</titulo>
+          <autores>LEANDRO, J ; CESARJR, R ; COSTA, L</autores>
+          <revista>Journal of Neuroscience Methods</revista>
+          <volume>Journal of Neuroscience Methods</volume>
+          <paginas>497-509</paginas>
+          <numero></numero>
+          <ano>2009</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.jvcir.2009.01.002</doi>
+          <titulo>Generating segmented meshes from textured color images</titulo>
+          <autores>LIZIER, M. A. ; MARTINS JR, D C ; CUADROS-VARGAS, A. J. ; CESAR JUNIOR, R. M. ; NONATO, L. G.</autores>
+          <revista>Journal of Visual Communication and Image Representation</revista>
+          <volume>Journal of Visual Communication and Image Representation</volume>
+          <paginas>190-203</paginas>
+          <numero></numero>
+          <ano>2009</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s00371-009-0373-x</doi>
+          <titulo>3D face computational photography using PCA spaces</titulo>
+          <autores>Mena-Chalco, Jesús P. ; Macêdo, Ives ; Velho, Luiz ; Cesar, Roberto M.</autores>
+          <revista>The Visual Computer</revista>
+          <volume>The Visual Computer</volume>
+          <paginas>899-909</paginas>
+          <numero></numero>
+          <ano>2009</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/S0104-65002009000400004</doi>
+          <titulo>ScriptLattes: an open-source knowledge extraction system from the Lattes platform</titulo>
+          <autores>Mena-Chalco, Jesús Pascual ; Cesar Junior, Roberto Marcondes</autores>
+          <revista>Journal of the Brazilian Computer Society (Impresso)</revista>
+          <volume>Journal of the Brazilian Computer Society (Impresso)</volume>
+          <paginas>1</paginas>
+          <numero></numero>
+          <ano>2009</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/S0100-879X2009000700008</doi>
+          <titulo>A novel polar-based human face recognition computational model</titulo>
+          <autores>Zana, Y. ; Mena-Chalco, J.P. ; Cesar Jr., R.M.</autores>
+          <revista>Brazilian Journal of Medical and Biological Research (Impresso)</revista>
+          <volume>Brazilian Journal of Medical and Biological Research (Impresso)</volume>
+          <paginas>1</paginas>
+          <numero></numero>
+          <ano>2009</ano>
+        </artigo>
+    </artigos_em_periodicos>
+    <livros_publicados>
+        <livro>
+          <autores>BLOCH, Isabelle (Org.) ; CESAR JUNIOR, R. M. (Org.)</autores>
+          <titulo>LNCS: Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. LNCS - Springer</titulo>
+          <edicao></edicao>
+          <volume></volume>
+          <paginas></paginas>
+          <ano>2010</ano>
+        </livro>
+        <livro>
+          <autores>BANON, G. (Org.) ; BRAGA-NETO, U. (Org.) ; CESAR JUNIOR, R. M. (Org.)</autores>
+          <titulo>Special Issue ISMM 2007 - Image and Visiont Computing (Elsevier)</titulo>
+          <edicao>28</edicao>
+          <volume>1</volume>
+          <paginas></paginas>
+          <ano>2010</ano>
+        </livro>
+        <livro>
+          <autores>COSTA, L. F. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Shape Classification and Analysis: Theory and Practice</titulo>
+          <edicao>2a</edicao>
+          <volume></volume>
+          <paginas></paginas>
+          <ano>2009</ano>
+        </livro>
+    </livros_publicados>
+    <texto_em_jornal>
+        <texto>
+          <ano>0</ano>
+          <autores>CESAR JUNIOR, R. M.</autores>
+          <titulo>Olhos nos Olhos: Ensinando o Computador a Reconhecer Pessoas</titulo>
+          <nome_jornal>Ciência Hoje, </nome_jornal>
+          <data></data>
+          <volume>29</volume>
+          <paginas>24-29</paginas>
+        </texto>
+    </texto_em_jornal>
+    <trabalho_completo_congresso>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>FREIRE, A. ; CESAR JUNIOR, R. M. ; FERREIRA, C. E.</autores>
+          <titulo>A column generation approach for the graph matching problem</titulo>
+          <nome_evento>International Conference on Pattern Recognition - ICPR</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>LOPES, Fabrício Martins ; MARTINS, C. I. O. ; Martins, David C. ; BARRERA, J ; CESAR JUNIOR, R. M.</autores>
+          <titulo>SFFS-MR: a floating search strategy for GRNs inference</titulo>
+          <nome_evento>5th IAPR International Conference on Pattern Recognition in Bioinformatics</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>NOMA, A. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Sparse Representations for Efficient Shape Matching</titulo>
+          <nome_evento>SIBGRAPI</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MATTOS, A. B. ; Mena-Chalco, Jesús P. ; CESAR JUNIOR, R. M. ; VELHO, L</autores>
+          <titulo>3D Linear Facial Animation Based on Real Data</titulo>
+          <nome_evento>SIBGRAPI</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CARVALHO, M. A. ; COSTA, A. ; FERREIRA, A. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Image Segmentation Using Component Tree and Normalized Cut</titulo>
+          <nome_evento>SIBGRAPI</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>HASHIMOTO, M. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Object Detection by Keygraph Classification</titulo>
+          <nome_evento>7th IAPR-TC-15 Workshop on Graph-based Representations in Pattern Recognition</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MARTINS JR, D C ; Oliveira, E. A. ; SILVA, P J S ; HASHIMOTO, R. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Revealing temporal genetic regulatory networks from steady-state distributions</titulo>
+          <nome_evento>IEEE International Workshop on Genomic Signal Processing and Statistics - GENSIPS</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>LOPES, Fabrício Martins ; MARTINS JR, D C ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Comparative study of GRN's inference methods based on feature selection by mutual information</titulo>
+          <nome_evento>IEEE International Workshop on Genomic Signal Processing and Statistics - GENSIPS</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MARTINS, C. I. O. ; MEDEIROS, F. N. S. ; VERAS, R. M. S. ; BEZERRA, F. N. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Evaluation of retinal vessel segmentation methods for microaneurysms detection</titulo>
+          <nome_evento>International Conference on Image Processing</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>NOMA, A. ; VELHO, L ; CESAR JUNIOR, R. M.</autores>
+          <titulo>A Computer-Assisted Colorization Approach based on Eﬃcient Belief Propagation and Graph Matching</titulo>
+          <nome_evento>14th Iberoamerican Congress on Pattern Recognition (CIARP 2009)</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>LOPES, Fabrício Martins ; Oliveira, E. A. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Analysis of the GRNs inference by using Tsallis entropy and a feature selection approach</titulo>
+          <nome_evento>14th Iberoamerican Congress on Pattern Recognition (CIARP 2009)</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+    </trabalho_completo_congresso>
+    <produto_tecnologico>
+        <produto>
+          <titulo>Compostos poliméricos eletricamente condutores para sensores de gases que identificam espécies de madeiras (DEPOSITADA)</titulo>
+          <autores>GRUBER, J. ; CORDEIRO, J. R. ; TAKAHASHI, E. S. ; CECCANTINI, G. C. T. ; VENTURA, L. ; CESAR JUNIOR, R. M. ; REHDER, G. ; CARRENO, M. N. P. ; CAMILO, F. F.</autores>
+          <ano>2010</ano>
+        </produto>
+    </produto_tecnologico>
+    <trabalhos_tecnicos>
+        <trabalho>
+          <titulo>Extensão para empresas de visão</titulo>
+          <autores>Cesar Jr, Roberto M.</autores>
+          <ano>2010</ano>
+        </trabalho>
+    </trabalhos_tecnicos>
+    <supervisao_pos_doutorado_em_andamento>
+        <supervisao>
+          <nome_aluno>Silvia Cristina Dias Pinto</nome_aluno>
+          <titulo_trabalho></titulo_trabalho>
+          <ano>2010</ano>
+          <instituicao>Instituto de Matematica e Estatistica</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </supervisao>
+    </supervisao_pos_doutorado_em_andamento>
+    <orientacao_doutorado_concluido>
+        <tese>
+          <nome_aluno>Alexandre Noma</nome_aluno>
+          <titulo_trabalho>Casamento de grafos, MRF e propagação de crenças</titulo_trabalho>
+          <ano>2010</ano>
+          <instituicao>Tese (Doutorado em Ciencia da Computacao) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Jesus pascual Mena Chalco</nome_aluno>
+          <titulo_trabalho>Reconstrução de faces 3D através de espaços de componentes principais</titulo_trabalho>
+          <ano>2010</ano>
+          <instituicao>Tese (Doutorado em Doutorado em Ciência da Computação) - Instituto de Matematica e Estatistica</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+    </orientacao_doutorado_concluido>
+    <orientacao_iniciacao_cientifica_concluido>
+        <iniciacao_cientifica>
+          <nome_aluno>Marcel Santos Claro</nome_aluno>
+          <titulo_trabalho>Rotulação e extração de contornos de estruturas rami cadas</titulo_trabalho>
+          <ano>2010</ano>
+          <instituicao>Iniciação Científica - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+    </orientacao_iniciacao_cientifica_concluido>
+  </pesquisador>
+  <pesquisador id="4727357182510680">
+    <identificacao>
+      <identificador10></identificador10>
+      <nome_inicial>Jesus P. Mena-Chalco</nome_inicial>
+      <nome_completo>Jesús Pascual Mena Chalco</nome_completo>
+      <nome_citacao_bibliografica>MENA-CHALCO, J. P.;MENA CHALCO, J. P.;MENA-CHALCO, JESÚS P.;MENA-CHALCO, JESÚS PASCUAL;MENA-CHALCO, JESUS P.;MENA-CHALCO, JESÚS</nome_citacao_bibliografica>
+      <sexo>Masculino</sexo>
+    </identificacao>
+    <idiomas>
+      <idioma>
+          <nome>Espanhol</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+      <idioma>
+          <nome>Português</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+      <idioma>
+          <nome>Inglês</nome>
+          <proficiencia>Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+    </idiomas>
+    <endereco>
+      <endereco_profissional>Universidade Federal do ABC, Centro de Matemática, Computação e Cognição. Avenida dos Estados 5001 Bairro Bangu 09210580 - Santo André, SP - Brasil Telefone: (11) 49967950 URL da Homepage: http://professor.ufabc.edu.br/~jesus.mena</endereco_profissional>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
+    </endereco>
+    <formacao_academica>
+        <formacao>
+          <ano_inicio>2005</ano_inicio>
+          <ano_conclusao>2010</ano_conclusao>
+          <tipo>Doutorado em Ciências da Computação</tipo>
+          <nome_instituicao>Universidade de São Paulo, USP, Brasil</nome_instituicao>
+          <descricao>com período co-tutela em Associação Instituto Nacional de Matemática Pura e Aplicada (Orientador: Luiz Carlos Pacheco Rodrigues Velho). Título: Reconstrução de faces 3D através de espaços de componentes principais, Ano de obtenção: 2010. Orientador: Roberto Marcondes Cesar Junior. Bolsista do(a): CAPES - Programa de Estudantes-Convênio de Pós-Graduação. Palavras-chave: Pattern Recognition; computer vision. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Reconhecimento de Padrões. Setores de atividade: Informática.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>2003</ano_inicio>
+          <ano_conclusao>2005</ano_conclusao>
+          <tipo>Mestrado em Ciências da Computação</tipo>
+          <nome_instituicao>Universidade de São Paulo, USP, Brasil</nome_instituicao>
+          <descricao>Título: Identificação de regiões codificantes de proteína através da transformada modificada de Morlet,Ano de Obtenção: 2005. Orientador: Roberto Marcondes Cesar Junior. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Bioinformatics; Digital Signal Processing; Pattern Recognition. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>1996</ano_inicio>
+          <ano_conclusao>2000</ano_conclusao>
+          <tipo>Graduação em Engenharia de Sistemas</tipo>
+          <nome_instituicao>Universidad Nacional de San Agustín</nome_instituicao>
+          <descricao>Título: Identificación y clasificación de regiones codificantes de proteínas: un estudio comparativo de métodos independientes del modelo de ADN codificante.</descricao>
+        </formacao>
+    </formacao_academica>
+    <projetos_pesquisa>
+        <projeto>
+          <ano_inicio>2006</ano_inicio>
+          <ano_conclusao>2010</ano_conclusao>
+          <nome>Reconstrução de faces 3D através de espaços de componentes principais</nome>
+          <descricao>Situação: Concluído; Natureza: Pesquisa. Integrantes: Jesús Pascual Mena Chalco - Coordenador / CESAR JUNIOR, R. M. - Integrante / VELHO, L. - Integrante. Número de produções C, T A: 10</descricao>
+        </projeto>
+    </projetos_pesquisa>
+    <area_atuacao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Reconhecimento de Padrões.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Bibliometria.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Cientometria.</descricao>
+          <descricao>Grande área: Ciências Sociais Aplicadas / Área: Ciência da Informação.</descricao>
+          <descricao>Grande área: Ciências Sociais Aplicadas / Área: Ciência da Informação / Subárea: Biblioteconomia/Especialidade: Métodos Quantitativos. Bibliometria.</descricao>
+    </area_atuacao>
+    <premios_titulos>
+        <premio_titulo>
+          <ano>2009</ano>
+          <descricao>(como orientador do TCC Christian Portugal) Segundo lugar no II Concurso de trabajos de pregrado, III Simposio Peruano de Computación Gráfica y Procesamiento de Imágenes.</descricao>
+        </premio_titulo>
+    </premios_titulos>
+    <colaboradores>
+        <id_lattes_colaborador>2201580020088062</id_lattes_colaborador>
+        <id_lattes_colaborador>5183243664164009</id_lattes_colaborador>
+        <id_lattes_colaborador>4231401119207209</id_lattes_colaborador>
+        <id_lattes_colaborador>2837012019824386</id_lattes_colaborador>
+        <id_lattes_colaborador>1689147340536405</id_lattes_colaborador>
+        <id_lattes_colaborador>0926213060635986</id_lattes_colaborador>
+        <id_lattes_colaborador>1660070580824436</id_lattes_colaborador>
+        <id_lattes_colaborador>1068554491963326</id_lattes_colaborador>
+        <id_lattes_colaborador>5822640461328016</id_lattes_colaborador>
+        <id_lattes_colaborador>3351423223842967</id_lattes_colaborador>
+        <id_lattes_colaborador>4833115415298367</id_lattes_colaborador>
+        <id_lattes_colaborador>1343302903420183</id_lattes_colaborador>
+        <id_lattes_colaborador>8420771612707965</id_lattes_colaborador>
+        <id_lattes_colaborador>6263519747443173</id_lattes_colaborador>
+        <id_lattes_colaborador>4134800147939218</id_lattes_colaborador>
+        <id_lattes_colaborador>1965696768654682</id_lattes_colaborador>
+        <id_lattes_colaborador>8309958472855694</id_lattes_colaborador>
+        <id_lattes_colaborador>7427573617921461</id_lattes_colaborador>
+        <id_lattes_colaborador>9836776931160228</id_lattes_colaborador>
+        <id_lattes_colaborador>9500245604678806</id_lattes_colaborador>
+        <id_lattes_colaborador>4416858554787169</id_lattes_colaborador>
+        <id_lattes_colaborador>2240951178648368</id_lattes_colaborador>
+        <id_lattes_colaborador>6156509933307243</id_lattes_colaborador>
+        <id_lattes_colaborador>4308525060697337</id_lattes_colaborador>
+        <id_lattes_colaborador>8502570969357785</id_lattes_colaborador>
+        <id_lattes_colaborador>3867942762661182</id_lattes_colaborador>
+        <id_lattes_colaborador>8076305092222491</id_lattes_colaborador>
+        <id_lattes_colaborador>4093653182381054</id_lattes_colaborador>
+        <id_lattes_colaborador>2254436025676785</id_lattes_colaborador>
+        <id_lattes_colaborador>4333940423066302</id_lattes_colaborador>
+        <id_lattes_colaborador>8938252042140828</id_lattes_colaborador>
+        <id_lattes_colaborador>2522777418118689</id_lattes_colaborador>
+    </colaboradores>
+    <artigos_em_periodicos>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/S0100-879X2009000700008</doi>
+          <titulo>A Novel Polar-based Human Face Recognition Computational Model</titulo>
+          <autores>ZANA, Y. ; MENA-CHALCO, J. P. ; CESAR JUNIOR, R. M.</autores>
+          <revista>Brazilian Journal of Medical and Biological Research (Impresso)</revista>
+          <volume>Brazilian Journal of Medical and Biological Research (Impresso)</volume>
+          <paginas>637-646</paginas>
+          <numero></numero>
+          <ano>2009</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s00371-009-0373-x</doi>
+          <titulo>3D Face Computational Photography Using PCA Spaces</titulo>
+          <autores>Mena-Chalco, Jesús P. ; Macêdo, Ives ; Velho, Luiz ; Cesar, Roberto M.</autores>
+          <revista>The Visual Computer</revista>
+          <volume>The Visual Computer</volume>
+          <paginas>899-909</paginas>
+          <numero></numero>
+          <ano>2009</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/S0104-65002009000400004</doi>
+          <titulo>scriptLattes: an open-source knowledge extraction system from the Lattes platform</titulo>
+          <autores>MENA-CHALCO, JESÚS PASCUAL ; JUNIOR, ROBERTO MARCONDES CESAR</autores>
+          <revista>Journal of the Brazilian Computer Society (Impresso)</revista>
+          <volume>Journal of the Brazilian Computer Society (Impresso)</volume>
+          <paginas>31-39</paginas>
+          <numero></numero>
+          <ano>2009</ano>
+        </artigo>
+    </artigos_em_periodicos>
+    <trabalho_completo_congresso>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/SIBGRAPI.2010.44</doi>
+          <autores>MATTOS, A. B. ; Mena-Chalco, Jesús P. ; CESAR JUNIOR, R. M. ; VELHO, L</autores>
+          <titulo>3D Linear Facial Animation Based on Real Data</titulo>
+          <nome_evento>Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>271-278</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CHUCTAYA, J. ; MENA-CHALCO, J. P. ; BELTRÁN-CASTAÑÓN, C. ; PATIÑO, R. ; HUMPIRE, G. ; RODRIGUEZ, A.</autores>
+          <titulo>Detección de huevos helmintos mediante plantillas dinámicas</titulo>
+          <nome_evento>XXXVIth Latin American Informatics Conference (XXXVI CLEI)</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>1-12</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/SCCC.2010.31</doi>
+          <autores>PEREZ, E. ; MENA-CHALCO, J. P.</autores>
+          <titulo>A new approach to detect communities in multi-weighted co-authorship networks</titulo>
+          <nome_evento>XXIX International Conference of the Chilean Computer Science Society</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>131-138</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>PORTUGAL ZAMBRANO, C. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Estimación de distancias absolutas utilizando un puntero láser y una cámara web</titulo>
+          <nome_evento>III Simposio Peruano de Computación Gráfica y Procesamiento de Imágenes</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+    </trabalho_completo_congresso>
+    <resumo_expandido_congresso>
+        <resumo_expandido>
+          <doi></doi>
+          <autores>PINTO, S. C. D. ; MENA-CHALCO, J. P. ; LOPES, F. M. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Preliminary results on 3D facial expression analysis using 2D and 3D wavelet transforms</titulo>
+          <nome_evento>23rd Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010, 2010, Gramado. 23rd Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010, Conference Proceedings</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+    </resumo_expandido_congresso>
+    <producao_bibliografica>
+        <producao>
+          <titulo>Banco de Dados de Faces 3D: IMPA-FACE3D. Rio de Janeiro: Instituto de Matemática Pura e Aplicada - IMPA - VISGRAF Laboratory</titulo>
+          <autores>MENA-CHALCO, J. P. ; CESAR JUNIOR, R. M. ; VELHO, L.</autores>
+          <ano>2009</ano>
+          <natureza>Relatorio tecnico</natureza>
+        </producao>
+        <producao>
+          <titulo>ScriptLattes V5: Uma ferramenta para compilação de produções acadêmicas usando Currículos Lattes.. São Paulo, SP, Brazil: Instituto de Matemática e Estatística - USP</titulo>
+          <autores>MENA-CHALCO, J. P.</autores>
+          <ano>2009</ano>
+          <natureza>Relatorio tecnico</natureza>
+        </producao>
+    </producao_bibliografica>
+    <trabalhos_tecnicos>
+        <trabalho>
+          <titulo>Blood vessel tracking in MRA images - Technical Video - SIBGRAPI 2010</titulo>
+          <autores>MACEDO, M. M. G. ; MENA-CHALCO, J. P. ; MEKKAOUI, C. ; JACKOWSKI, M. P.</autores>
+          <ano>2010</ano>
+        </trabalho>
+    </trabalhos_tecnicos>
+    <producao_tecnica>
+        <producao>
+          <titulo>Capacitação na utilização e adaptação de script de compilação e visualização de informações extraídas de CVs Lattes</titulo>
+          <autores>MENA-CHALCO, J. P.</autores>
+          <natureza>Curso de curta duração ministrado/Especialização</natureza>
+          <ano>2009</ano>
+        </producao>
+    </producao_tecnica>
+    <orientacao_tcc_concluido>
+        <tcc>
+          <nome_aluno>Evelyn Perez Cervantes</nome_aluno>
+          <titulo_trabalho>Detección de comunidades en redes de colaboración científica</titulo_trabalho>
+          <ano>2010</ano>
+          <instituicao>(Graduação em Engenharia de Sistemas) - Universidad Nacional de San Agustín</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Christian E. Portugal Zambrano</nome_aluno>
+          <titulo_trabalho>Estimación de distancias absolutas utilizando un puntero láser y una cámara web</titulo_trabalho>
+          <ano>2009</ano>
+          <instituicao>(Graduação em Engenharia de Sistemas) - Universidad Nacional de San Agustín</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+    </orientacao_tcc_concluido>
+    <participacao_evento>
+        <evento>
+          <titulo>Seminarios de Raios Cósmicos e Cronologia do Instituto de Física Gleb Wataghin.Sumarização de dados cientificos de currículos Lattes mediante scriptLattes. 2010. (Seminário).</titulo>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>IV Simposio de Computación Gráfica y Procesamiento de Imágenes (SCGI2010).Caricaturização de rostros en 3D: un abordaje basado en proporciones faciales. 2010. (Simpósio).</titulo>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>2do Encontro Brasileiro de bibliometria e cientometria.scriptLattes: extração e visualização de conhecimento a partir de CV-Lattes (Sessão Técnica). 2010. (Encontro).</titulo>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>Seminário de apresentação do scriptLattes para a Pró-Reitoria de pesquisa da UFABC.Ferramenta scriptLattes. 2010. (Outra).</titulo>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>Transformações na Comunicação Científica: Identificando necessidades e experimentando tecnologias com grupos de pesquisadores em HIV/Aids.scriptLattes: Uma ferramenta para extração e visualização de conhecimento a partir de Currículos Lattes. 2009. (Seminário).</titulo>
+          <ano>2009</ano>
+        </evento>
+        <evento>
+          <titulo>III Simposio de Computación Gráfica y Procesamiento de Imágenes (SCGI2009).Base de datos de rostros 3D. 2009. (Simpósio).</titulo>
+          <ano>2009</ano>
+        </evento>
+        <evento>
+          <titulo>II Simposio Peruano de Inteligencia Artificial.scriptLattes: Una herramienta para extracción y visualización de conocimiento a partir de Currículos Lattes. 2009. (Simpósio).</titulo>
+          <ano>2009</ano>
+        </evento>
+        <evento>
+          <titulo>Reunião dos pesquisadores e técnicos da Agência Paulista de Tecnologia dos Agronegócios (APTA).Programa scriptLattes. 2009. (Encontro).</titulo>
+          <ano>2009</ano>
+        </evento>
+    </participacao_evento>
+    <organizacao_evento>
+        <evento>
+          <titulo>São Paulo advanced school of computing 2010 - Image processing and visualization. Comitê auxiliar</titulo>
+          <natureza>Outro</natureza>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>IV Simposio de Computación Gráfica y Procesamiento de Imágenes (SCGI-2010). Co-chair</titulo>
+          <natureza>Congresso</natureza>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>15th Iberoamerican Congress on Pattern Recognition (CIARP-2010). Comitê auxiliar</titulo>
+          <natureza>Congresso</natureza>
+          <ano>2010</ano>
+        </evento>
+    </organizacao_evento>
+  </pesquisador>
+  <pesquisador id="2837012019824386">
+    <identificacao>
+      <identificador10></identificador10>
+      <nome_inicial>Andréa Britto Mattos</nome_inicial>
+      <nome_completo>Andréa Britto Mattos</nome_completo>
+      <nome_citacao_bibliografica>MATTOS, A. B.;MATTOS, ANDRÉA BRITTO;MATTOS, A B</nome_citacao_bibliografica>
+      <sexo>Masculino</sexo>
+    </identificacao>
+    <idiomas>
+      <idioma>
+          <nome>Inglês</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+      <idioma>
+          <nome>Espanhol</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+    </idiomas>
+    <endereco>
+      <endereco_profissional>Universidade de São Paulo, Instituto de Matemática e Estatística. Rua do Matão, 1010 - Cidade Universitária Butantã 05508-090 - Sao Paulo, SP - Brasil URL da Homepage: http://www.vision.ime.usp.br/~dedea/</endereco_profissional>
+      <endereco_profissional_lat></endereco_profissional_lat>
+      <endereco_profissional_long></endereco_profissional_long>
+    </endereco>
+    <formacao_academica>
+        <formacao>
+          <ano_inicio>2009</ano_inicio>
+          <ano_conclusao>2011</ano_conclusao>
+          <tipo>Mestrado em Ciências da Computação</tipo>
+          <nome_instituicao>Universidade de São Paulo, USP, Brasil</nome_instituicao>
+          <descricao>Título: Animação de Faces Tridimensionais Baseada em Registro Estrutural,Ano de Obtenção: 2011. Orientador: Roberto Marcondes Cesar Junior. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>2005</ano_inicio>
+          <ano_conclusao>2008</ano_conclusao>
+          <tipo>Graduação em Bacharelado em Ciência da Computação</tipo>
+          <nome_instituicao>Universidade de São Paulo, USP, Brasil</nome_instituicao>
+          <descricao>Título: Sistema de Animação Facial Tridimensional e Síntese de Voz. Orientador: Roberto Marcondes Cesar Junior.</descricao>
+        </formacao>
+    </formacao_academica>
+    <colaboradores>
+        <id_lattes_colaborador>8987939273905087</id_lattes_colaborador>
+        <id_lattes_colaborador>9500245604678806</id_lattes_colaborador>
+        <id_lattes_colaborador>4727357182510680</id_lattes_colaborador>
+        <id_lattes_colaborador>2240951178648368</id_lattes_colaborador>
+        <id_lattes_colaborador>7411185094432621</id_lattes_colaborador>
+        <id_lattes_colaborador>3297406696314967</id_lattes_colaborador>
+        <id_lattes_colaborador>6278715393178229</id_lattes_colaborador>
+        <id_lattes_colaborador>4259409970128066</id_lattes_colaborador>
+    </colaboradores>
+    <texto_em_jornal>
+        <texto>
+          <ano>0</ano>
+          <autores>MATTOS, A B</autores>
+          <titulo>Olhar Eletrônico</titulo>
+          <nome_jornal>Pesquisa FAPESP</nome_jornal>
+          <data></data>
+          <volume></volume>
+          <paginas></paginas>
+        </texto>
+        <texto>
+          <ano>0</ano>
+          <autores>MATTOS, A B</autores>
+          <titulo>A New Technology To Help Visually Impaired Shoppers Is Being Tested By IBM in Brazil</titulo>
+          <nome_jornal>Forbes</nome_jornal>
+          <data></data>
+          <volume></volume>
+          <paginas></paginas>
+        </texto>
+    </texto_em_jornal>
+    <trabalho_completo_congresso>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/SIBGRAPI.2010.44</doi>
+          <autores>MATTOS, A. B. ; Mena-Chalco, Jesús P. ; CESAR JUNIOR, R. M. ; VELHO, L</autores>
+          <titulo>3D Linear Facial Animation Based on Real Data</titulo>
+          <nome_evento>Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>271-278</paginas>
+        </trabalho_completo>
+    </trabalho_completo_congresso>
+    <resumo_expandido_congresso>
+        <resumo_expandido>
+          <doi></doi>
+          <autores>MATTOS, A. B. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>3D facial animation based on structural registration</titulo>
+          <nome_evento>Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2009, 2009, Rio de Janeiro. Brazilian Symposium on Computer Graphics and Image Processing, Conference Proceedings, 2009</nome_evento>
+          <ano>2009</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+    </resumo_expandido_congresso>
+    <participacao_evento>
+        <evento>
+          <titulo>XXIII Sibgrapi (Conference on Graphics, Patterns and Images). 2010. (Congresso).</titulo>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>XXII Sibgrapi (Conference on Graphics, Patterns and Images). 2009. (Congresso).</titulo>
+          <ano>2009</ano>
+        </evento>
+    </participacao_evento>
+    <organizacao_evento>
+        <evento>
+          <titulo>15th Iberoamerican Congress on Pattern Recognition CIARP 2010</titulo>
+          <natureza>Congresso</natureza>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>São Paulo Advanced School of Computing SP-ASC 2010</titulo>
+          <natureza>Outro</natureza>
+          <ano>2010</ano>
+        </evento>
+    </organizacao_evento>
+  </pesquisador>
+</curriculo_lattes>

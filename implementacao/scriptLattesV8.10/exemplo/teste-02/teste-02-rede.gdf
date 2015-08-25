@@ -1,0 +1,39 @@
+nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, color VARCHAR
+0,4575931307749163,Carlos Hitoshi Morimoto,Professor,-23.5598580,-46.7329875,0.15,49,5,3,3,25,3,10,'153,0,0'
+1,0131770792108992,Joao Eduardo Ferreira,Professor,-23.5598580,-46.7329875,0.940026,91,29,3,2,46,8,3,'153,0,0'
+2,0362417828475021,Junior Barrera,Professor,-23.5598580,-46.7329875,1.60464,62,22,3,3,25,0,9,'153,0,0'
+3,5416099300504556,Kelly Rosa Braghetto,Professor,-23.5791684,-46.7085727,0.882437,23,6,0,2,9,3,3,'153,0,0'
+4,0926213060635986,Marcel Parolin Jackowski,Professor,-23.5598580,-46.7329875,1.0,75,26,0,1,14,6,28,'153,0,0'
+5,0644408634493034,Nina Sumiko Tomita Hirata,Professor,-23.5598580,-46.7329875,0.749927,43,6,0,3,28,3,3,'153,0,0'
+6,5251389003736909,Paulo Andre Vechiatto de Miranda,Professor,-23.5598580,-46.7329875,1.0,45,10,0,1,32,0,2,'153,0,0'
+7,1647118503085126,Roberto Hirata Junior,Professor,-23.5598580,-46.7329875,0.879909,61,18,0,1,25,5,12,'153,0,0'
+8,2240951178648368,Roberto Marcondes Cesar Junior,Professor,-23.5598580,-46.7329875,1.92654,137,39,7,3,72,5,11,'153,0,0'
+9,9283304583756076,Ronaldo Fumio Hashimoto,Professor,-23.5598580,-46.7329875,1.0392,51,17,0,1,23,3,7,'153,0,0'
+10,4727357182510680,Jesus Pascual Mena Chalco,Colaborador,-23.6375511,-46.5282973,0.781662,49,12,0,1,23,7,6,'0,102,0'
+11,1228255861618623,David Correa Martins Junior,Colaborador,-23.6431216,-46.5293690,1.04646,41,9,0,1,16,1,14,'0,102,0'
+12,1660070580824436,Fabricio Martins Lopes,Colaborador,-23.1978330,-50.6378804,0.902059,48,10,0,0,11,5,22,'0,102,0'
+13,2837012019824386,Andrea Britto Mattos,Aluno,-23.5598580,-46.7329875,0.247133,10,0,0,0,6,4,0,'0,0,153'
+edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
+1,2,1.0
+1,3,11.0
+1,8,1.0
+2,5,9.0
+2,7,9.0
+2,8,9.0
+2,9,10.0
+2,11,6.0
+4,6,1.0
+5,7,6.0
+5,9,1.0
+7,8,4.0
+7,9,2.0
+8,9,4.0
+8,10,11.0
+8,11,15.0
+8,12,12.0
+8,13,1.0
+9,11,6.0
+9,12,5.0
+10,12,3.0
+10,13,2.0
+11,12,6.0
